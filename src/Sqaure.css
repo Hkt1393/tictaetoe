@@ -1,0 +1,9 @@
+button {
+  height: 80px;
+  width: 80px;
+  cursor: pointer;
+  display: inline-table;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
+}
+
